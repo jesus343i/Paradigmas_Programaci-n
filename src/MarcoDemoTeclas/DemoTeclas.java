@@ -1,4 +1,4 @@
-package PanelDibujo;
+package MarcoDemoTeclas;
 
 import javax.swing.*;
 
